@@ -1,0 +1,6 @@
+.venv/
+dataset/
+emotion_model.h5
+emotion_model_full/
+__pycache__/
+*.pyc
